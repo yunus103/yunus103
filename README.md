@@ -1,17 +1,17 @@
 <h1 align="center">Hi 👋, I'm Yunus Emre Aytekin - Frontend Developer</h1>
 <h3 align="center">A computer engineering student and frontend developer</h3>
 
-- 🌱 I’m currently focusing on **React**
+- 🌱 I’m currently focusing on **React, Next.js, Typescript**
 
 - 👯 I’m looking to collaborate on **Frontend projects**
 
 - 👨‍💻 All of my projects are available at [https://yunus103.github.io/portfolio/](https://yunus103.github.io/portfolio/)
 
-- 💬 Ask me about **react, js, Frontend, Responsive Design, UI/UX basics**
+- 💬 Ask me about **react, js, , next.js, Frontend, Responsive Design, UI/UX basics**
 
 - 📫 How to reach me **yaytekin288@gmail.com**
 
-- ⚡ Planning to expand projects with **Next.js and TypeScript**
+- ⚡ Building production projects with **Next.js and TypeScript**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
