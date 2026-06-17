@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yunus Emre Aytekin - Frontend Developer</h1>
-<h3 align="center">A computer engineering student and frontend developer</h3>
+<h3 align="center">Computer engineer & Frontend Feveloper</h3>
 
 - 🌱 I’m currently focusing on **React, Next.js, Typescript**
 
