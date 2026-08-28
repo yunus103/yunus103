@@ -1,85 +1,47 @@
-<h1 align="center">Hi 👋, I'm Yunus Emre Aytekin - Frontend Developer</h1>
-<h3 align="center">Computer Engineer & Frontend Feveloper</h3>
+<h1 align="center">Yunus Emre Aytekin</h1>
 
-- 🌱 I’m currently focusing on **React, Next.js, Typescript**
-
-- 👯 I’m looking to collaborate on **Frontend projects**
-
-- 👨‍💻 All of my projects are available at [https://yunus103.github.io/portfolio/](https://yunus103.github.io/portfolio/)
-
-- 💬 Ask me about **react, js, , next.js, Frontend, Responsive Design, UI/UX basics**
-
-- 📫 How to reach me **yaytekin288@gmail.com**
-
-- ⚡ Building production projects with **Next.js and TypeScript**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/yunus-emre-aytekin-153105223" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yunus-emre-aytekin-153105223" height="30" width="40" /></a>
+<p align="center">
+  <b>Frontend Developer</b> · Istanbul, Türkiye
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-
-  <!-- Frontend Essentials -->
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-  </a>
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
-  </a>
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
-  </a>
-
-  <!-- Tooling -->
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-  </a>
-  <a href="https://webpack.js.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/>
-  </a>
-  <a href="https://postman.com" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
-  </a>
-
-  <!-- Mobile -->
-  <a href="https://dart.dev" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/>
-  </a>
-
-  <!-- Databases & Backend-related -->
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-  </a>
-  <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/>
-  </a>
-
-  <!-- Testing -->
-  <a href="https://jestjs.io" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/>
-  </a>
-
-  <!-- Extra Languages (you rarely use them) -->
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  </a>
-  <a href="https://www.java.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
-  </a>
-
+<p align="center">
+  I build production web applications with React, Next.js and TypeScript.<br>
+  14+ sites shipped end to end — architecture, implementation, deployment.
 </p>
 
+<p align="center">
+  <a href="https://yaytechstudio.com"><img src="https://img.shields.io/badge/Portfolio-yaytechstudio.com-0A0A0A?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio"></a>
+  <a href="https://www.linkedin.com/in/yunus-emre-aytekin-153105223/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:yaytekin288@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
+</p>
+
+<br>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black">
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black">
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white">
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white">
+  <br>
+  <img src="https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=threedotjs&logoColor=white">
+  <img src="https://img.shields.io/badge/React_Three_Fiber-black?style=flat-square&logo=three.js&logoColor=white">
+  <img src="https://img.shields.io/badge/Zustand-2D3748?style=flat-square">
+  <img src="https://img.shields.io/badge/Sanity-F03E2F?style=flat-square&logo=sanity&logoColor=white">
+  <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white">
+  <br>
+  <img src="https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=csharp&logoColor=white">
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white">
+  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white">
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white">
+</p>
+
+<br>
+
+<p align="center">
+  <sub><b>Now:</b> test coverage with Jest &amp; React Testing Library · OpenAPI-generated API clients with Orval</sub>
+</p>
+
+<p align="center">
+  <sub>Open to frontend roles · English (professional working proficiency) · Turkish (native)</sub>
+</p>
